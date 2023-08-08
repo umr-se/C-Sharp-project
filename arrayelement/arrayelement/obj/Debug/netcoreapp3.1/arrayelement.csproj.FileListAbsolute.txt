@@ -1,0 +1,13 @@
+E:\C# Projects\arrayelement\arrayelement\bin\Debug\netcoreapp3.1\arrayelement.exe
+E:\C# Projects\arrayelement\arrayelement\bin\Debug\netcoreapp3.1\arrayelement.deps.json
+E:\C# Projects\arrayelement\arrayelement\bin\Debug\netcoreapp3.1\arrayelement.runtimeconfig.json
+E:\C# Projects\arrayelement\arrayelement\bin\Debug\netcoreapp3.1\arrayelement.runtimeconfig.dev.json
+E:\C# Projects\arrayelement\arrayelement\bin\Debug\netcoreapp3.1\arrayelement.dll
+E:\C# Projects\arrayelement\arrayelement\bin\Debug\netcoreapp3.1\arrayelement.pdb
+E:\C# Projects\arrayelement\arrayelement\obj\Debug\netcoreapp3.1\arrayelement.csproj.AssemblyReference.cache
+E:\C# Projects\arrayelement\arrayelement\obj\Debug\netcoreapp3.1\arrayelement.AssemblyInfoInputs.cache
+E:\C# Projects\arrayelement\arrayelement\obj\Debug\netcoreapp3.1\arrayelement.AssemblyInfo.cs
+E:\C# Projects\arrayelement\arrayelement\obj\Debug\netcoreapp3.1\arrayelement.csproj.CoreCompileInputs.cache
+E:\C# Projects\arrayelement\arrayelement\obj\Debug\netcoreapp3.1\arrayelement.dll
+E:\C# Projects\arrayelement\arrayelement\obj\Debug\netcoreapp3.1\arrayelement.pdb
+E:\C# Projects\arrayelement\arrayelement\obj\Debug\netcoreapp3.1\arrayelement.genruntimeconfig.cache

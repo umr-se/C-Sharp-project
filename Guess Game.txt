@@ -1,0 +1,28 @@
+            // Console.WriteLine("Guessing Number Game!!!");
+            //String CodeNum = "umer";
+            //String GuessNum = "";
+            //int GuessCount = 0;
+            //int GuessLimit = 3;
+            //bool outofGuesses = false;
+            //while (GuessNum != CodeNum && !outofGuesses)
+            //{
+            //    if (GuessCount < GuessLimit)
+            //    {
+            //        Console.Write("Enter Value : ");
+            //        GuessNum = Console.ReadLine();
+            //        GuessCount++;
+            //    }
+            //    else
+            //    {
+            //        outofGuesses = true;
+            //    }
+               
+            //}
+            //if (outofGuesses)
+            //{
+            //    Console.WriteLine("You Lose!!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("You Win!!");
+            //}

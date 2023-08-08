@@ -1,0 +1,16 @@
+        
+     
+                 // Exponent Method
+        {
+            Console.WriteLine(Exponent(2, 3));
+            Console.ReadLine();
+        }
+        static int Exponent(int baseNum ,int powNum)
+        {
+            int result = 1;
+            for (int i =0; i < powNum; i++)
+            {
+                result = result * baseNum;
+            }
+            return result;
+        }

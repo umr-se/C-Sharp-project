@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tumDoc06qklRGnXxB6Y8hOmbpo6dNxVbH4RLWqsgw7Wli8/51dX+xW7VbeX4N7vhph4IvFWRIChbkph8BlTc3Q==",
+  "success": true,
+  "projectFilePath": "E:\\C# Projects\\arrayelement\\arrayelement\\arrayelement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umers\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

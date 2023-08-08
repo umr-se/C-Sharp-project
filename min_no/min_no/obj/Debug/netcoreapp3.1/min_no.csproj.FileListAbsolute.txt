@@ -1,0 +1,12 @@
+E:\C# Projects\min_no\min_no\bin\Debug\netcoreapp3.1\min_no.exe
+E:\C# Projects\min_no\min_no\bin\Debug\netcoreapp3.1\min_no.deps.json
+E:\C# Projects\min_no\min_no\bin\Debug\netcoreapp3.1\min_no.runtimeconfig.json
+E:\C# Projects\min_no\min_no\bin\Debug\netcoreapp3.1\min_no.runtimeconfig.dev.json
+E:\C# Projects\min_no\min_no\bin\Debug\netcoreapp3.1\min_no.dll
+E:\C# Projects\min_no\min_no\bin\Debug\netcoreapp3.1\min_no.pdb
+E:\C# Projects\min_no\min_no\obj\Debug\netcoreapp3.1\min_no.AssemblyInfoInputs.cache
+E:\C# Projects\min_no\min_no\obj\Debug\netcoreapp3.1\min_no.AssemblyInfo.cs
+E:\C# Projects\min_no\min_no\obj\Debug\netcoreapp3.1\min_no.csproj.CoreCompileInputs.cache
+E:\C# Projects\min_no\min_no\obj\Debug\netcoreapp3.1\min_no.dll
+E:\C# Projects\min_no\min_no\obj\Debug\netcoreapp3.1\min_no.pdb
+E:\C# Projects\min_no\min_no\obj\Debug\netcoreapp3.1\min_no.genruntimeconfig.cache

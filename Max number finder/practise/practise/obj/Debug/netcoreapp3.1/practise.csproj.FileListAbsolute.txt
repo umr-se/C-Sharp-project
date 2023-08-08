@@ -1,0 +1,13 @@
+E:\C# Projects\practise\practise\bin\Debug\netcoreapp3.1\practise.exe
+E:\C# Projects\practise\practise\bin\Debug\netcoreapp3.1\practise.deps.json
+E:\C# Projects\practise\practise\bin\Debug\netcoreapp3.1\practise.runtimeconfig.json
+E:\C# Projects\practise\practise\bin\Debug\netcoreapp3.1\practise.runtimeconfig.dev.json
+E:\C# Projects\practise\practise\bin\Debug\netcoreapp3.1\practise.dll
+E:\C# Projects\practise\practise\bin\Debug\netcoreapp3.1\practise.pdb
+E:\C# Projects\practise\practise\obj\Debug\netcoreapp3.1\practise.csproj.AssemblyReference.cache
+E:\C# Projects\practise\practise\obj\Debug\netcoreapp3.1\practise.AssemblyInfoInputs.cache
+E:\C# Projects\practise\practise\obj\Debug\netcoreapp3.1\practise.AssemblyInfo.cs
+E:\C# Projects\practise\practise\obj\Debug\netcoreapp3.1\practise.csproj.CoreCompileInputs.cache
+E:\C# Projects\practise\practise\obj\Debug\netcoreapp3.1\practise.dll
+E:\C# Projects\practise\practise\obj\Debug\netcoreapp3.1\practise.pdb
+E:\C# Projects\practise\practise\obj\Debug\netcoreapp3.1\practise.genruntimeconfig.cache

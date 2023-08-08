@@ -1,0 +1,15 @@
+                         
+
+                        //Factorial C#
+                   
+            Console.Write("Enter No.: " );
+            int x = Convert.ToInt32(Console.ReadLine());   
+            int fact;
+            fact = x;
+            while(x>1)
+            {
+                x--;
+                fact = fact * x;
+            }
+            Console.Write("The Factorial of Given No. : " + fact);
+            Console.ReadLine();
